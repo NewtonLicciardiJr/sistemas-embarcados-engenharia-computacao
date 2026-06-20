@@ -47,7 +47,7 @@ Entre os recursos implementados, destacam-se:
 | -------- | ----------------------------------------- | ------------------------------- | ----------------------- |
 | Grupo 01 | Sistema embarcado de controle perimétrico | [[[GitHub do grupo] (https://github.com/RafaelRSCaldeira/sistemas-embarcados).] |
 | Grupo 02 | Sistema embarcado de controle perimétrico | [GitHub do grupo](https://github.com/LernerLior/projetoEmbarcados/)| [YouTube](https://youtu.be/SQBNVCOHkRk) | 
-| Grupo 03 | Sistema embarcado de controle perimétrico | [GitHub do grupo]( https://github.com/Migsrs/App-Embarcados) (https://github.com/ThiagoPGPEsteves/Fpga-sistema_alarme).| [YouTube]([INSERIR_LINK](https://youtu.be/-svms_gdyUc) | 
+| Grupo 03 | Sistema embarcado de controle perimétrico | [GitHub do grupo]( https://github.com/Migsrs/App-Embarcados) (https://github.com/ThiagoPGPEsteves/Fpga-sistema_alarme).| [YouTube].([INSERIR_LINK](https://youtu.be/-svms_gdyUc) | 
 | Grupo 04 | Sistema embarcado de controle perimétrico | [GitHub do grupo](https://github.com/GabrielKeys/Projeto_Alarme_FPGA/tree/main) 
 | Grupo 05 | Sistema embarcado de controle perimétrico | [GitHub do grupo](https://github.com/GabrielKeys/Projeto_Alarme_FPGA/tree/main) 
 
