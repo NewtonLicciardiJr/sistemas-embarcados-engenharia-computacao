@@ -72,5 +72,6 @@ Os projetos também foram publicados em plataformas abertas, como GitHub e YouTu
 #IoT
 #M2M
 #ProjetosDeEngenharia
+
 #Mackenzie
 #ProfNewtonLicciardi
