@@ -53,7 +53,7 @@ Entre os recursos implementados, destacam-se:
 
 ## Galeria
 
-As fotos dos protótipos, bancadas de teste e apresentações estão organizadas por grupo na pasta [`fotos/`](fotos/).
+As fotos dos protótipos, bancadas de teste e apresentações estão organizadas por grupo na pasta [`fotos_videos/`](fotos_videos/).
 
 ## Observação técnica
 
